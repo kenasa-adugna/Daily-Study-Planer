@@ -1,9 +1,12 @@
 
 📅 Daily Study Planner
+
 A simple and interactive web-based study planner built using HTML, CSS, and JavaScript.
 It helps students organize daily tasks, track progress, and improve productivity.
+
 🚀 Live Demo
 👉 https://kenasa-adugna.github.io/Daily-Study-Planer/
+
 ✨ Features
 📝 Add daily study tasks
 ✔ Mark tasks as completed
@@ -11,11 +14,13 @@ It helps students organize daily tasks, track progress, and improve productivity
 📊 Progress tracking bar
 💾 Saves data using Local Storage
 📱 Responsive design (mobile & desktop)
+
 🛠️ Built With
 HTML5
 CSS3
 JavaScript (Vanilla JS)
 💡 How It Works
+
 Type your study task in the input box
 Click Add to insert it into your list
 Click ✔ to mark task as completed
